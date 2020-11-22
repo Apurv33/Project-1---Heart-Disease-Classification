@@ -11,7 +11,7 @@ This is because we're going to be using a number of differnet **features** (piec
 
 In a statement,
 
-> Given clinical parameters about a patient, can we predict whether or not they have heart disease?
+Given clinical parameters about a patient, can we predict whether or not they have heart disease?
 
 ## 2. Data
 
@@ -25,7 +25,7 @@ The original database contains 76 attributes, but here only 14 attributes will b
 
 Attributes and features are also referred to as **independent variables** and a target variable can be referred to as a **dependent variable**.
 
-> We use the independent variables to predict our dependent variable.
+We use the independent variables to predict our dependent variable.
 
 Or in our case, the independent variables are a patients different medical attributes and the dependent variable is whether or not they have heart disease.
 
@@ -35,7 +35,7 @@ The evaluation metric is something you might define at the start of a project.
 
 Since machine learning is very experimental, you might say something like, 
 
-> If we can reach 95% accuracy at predicting whether or not a patient has heart disease during the proof of concept, we'll pursure this project.
+If we can reach 95% accuracy at predicting whether or not a patient has heart disease during the proof of concept, we'll pursure this project.
 
 The reason this is helpful is it provides a rough goal for a machine learning engineer or data scientist to work towards.
 
